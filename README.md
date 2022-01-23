@@ -1,5 +1,5 @@
 # python-crash-course-2nd-edition-solutions
-These are my solution of exercise problems of book **Python Crash Course 2nd Edition by Eric Matthes**. For original solutions see [here](https://ehmatthes.github.io/pcc_2e/solutions/solutions/)
+These are my solution of exercise problems of book **Python Crash Course 2nd Edition by Eric Matthes**. For original solutions see [here](https://ehmatthes.github.io/pcc_2e/solutions/solutions/).
 
 My solutions are not very *pythonic*, for example -
 * I use **PascalCase** for naming functions, classes and files instead of **underscores_in_name**
