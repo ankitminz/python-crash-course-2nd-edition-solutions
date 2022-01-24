@@ -30,4 +30,19 @@ My solutions are not very *pythonic*, for example -
 10. [Every Function](https://github.com/ankitminz/python-crash-course-2nd-edition-solutions/blob/master/Ch3/Ch3Q10/EveryFunction.py)
 11. [Intentional Error](https://github.com/ankitminz/python-crash-course-2nd-edition-solutions/blob/master/Ch3/Ch3Q11/IntentionalError.py) *(It literally throws error)*
 
-## Chapter 4 *(In progress)*
+## Chapter 4
+1. [Pizzas](https://github.com/ankitminz/python-crash-course-2nd-edition-solutions/blob/master/Ch4/Ch4Q1/Pizzas.py)
+2. [Animals](https://github.com/ankitminz/python-crash-course-2nd-edition-solutions/blob/master/Ch4/Ch4Q2/Animals.py)
+3. [Counting to Twenty](https://github.com/ankitminz/python-crash-course-2nd-edition-solutions/blob/master/Ch4/Ch4Q3/CountingToTwenty.py)
+4. [One Million](https://github.com/ankitminz/python-crash-course-2nd-edition-solutions/blob/master/Ch4/Ch4Q4/OneMillion.py)
+5. [Sum of Million](https://github.com/ankitminz/python-crash-course-2nd-edition-solutions/blob/master/Ch4/Ch4Q5/SumOfMillion.py)
+6. [Odd Nums](https://github.com/ankitminz/python-crash-course-2nd-edition-solutions/blob/master/Ch4/Ch4Q6/OddNums.py)
+7. [Threes](https://github.com/ankitminz/python-crash-course-2nd-edition-solutions/blob/master/Ch4/Ch4Q7/Threes.py)
+8. [Cubes](https://github.com/ankitminz/python-crash-course-2nd-edition-solutions/blob/master/Ch4/Ch4Q8/Cubes.py)
+9. [Cubes list comprehension](https://github.com/ankitminz/python-crash-course-2nd-edition-solutions/blob/master/Ch4/Ch4Q9/CubeCompression.py)
+10. [Slices](https://github.com/ankitminz/python-crash-course-2nd-edition-solutions/blob/master/Ch4/Ch4Q10/Slices.py)
+11. [My pizzas your pizzas](https://github.com/ankitminz/python-crash-course-2nd-edition-solutions/blob/master/Ch4/Ch4Q11/MyPizzasYourPizzas.py)
+12. [More Loops](https://github.com/ankitminz/python-crash-course-2nd-edition-solutions/blob/master/Ch4/Ch4Q12/MoreLoops.py)
+13. [Buffet](https://github.com/ankitminz/python-crash-course-2nd-edition-solutions/blob/master/Ch4/Ch4Q13/Buffet.py)
+
+## Chapter 5 *(In progress)*
