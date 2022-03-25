@@ -45,4 +45,17 @@ My solutions are not very *pythonic*, for example -
 12. [More Loops](https://github.com/ankitminz/python-crash-course-2nd-edition-solutions/blob/master/Ch4/Ch4Q12/MoreLoops.py)
 13. [Buffet](https://github.com/ankitminz/python-crash-course-2nd-edition-solutions/blob/master/Ch4/Ch4Q13/Buffet.py)
 
-## Chapter 5 *(In progress)*
+## Chapter 5
+1. [If condition](https://github.com/ankitminz/python-crash-course-2nd-edition-solutions/blob/master/Ch5/Ch5Q1/ifCondition.py)
+2. [More if condition](https://github.com/ankitminz/python-crash-course-2nd-edition-solutions/blob/master/Ch5/Ch5Q2/MoreCondition.py)
+3. [Alien Colors 1](https://github.com/ankitminz/python-crash-course-2nd-edition-solutions/blob/master/Ch5/Ch5Q3/AlienColors1.py)
+4. [Alien Colors 2](https://github.com/ankitminz/python-crash-course-2nd-edition-solutions/blob/master/Ch5/Ch5Q4/AlienColors2.py)
+5. [Alien Colors 3](https://github.com/ankitminz/python-crash-course-2nd-edition-solutions/blob/master/Ch5/Ch5Q5/AlienColors3.py)
+6. [Stages of life](https://github.com/ankitminz/python-crash-course-2nd-edition-solutions/blob/master/Ch5/Ch5Q6/StagesOfLife.py)
+7. [Favorite fruits](https://github.com/ankitminz/python-crash-course-2nd-edition-solutions/blob/master/Ch5/Ch5Q7/FavouriteFruits.py)
+8. [Hello admin](https://github.com/ankitminz/python-crash-course-2nd-edition-solutions/blob/master/Ch5/Ch5Q8/HelloAdmin.py)
+9. [No users](https://github.com/ankitminz/python-crash-course-2nd-edition-solutions/blob/master/Ch5/Ch5Q9/NoUsers.py)
+10. [Checking usernames](https://github.com/ankitminz/python-crash-course-2nd-edition-solutions/blob/master/Ch5/Ch5Q10/CheckingUsernames.py)
+11. [Ordinal numbers](https://github.com/ankitminz/python-crash-course-2nd-edition-solutions/blob/master/Ch5/Ch5Q11/OrdinalNumbers.py)
+
+## Chapter 6 *(In progress)*
